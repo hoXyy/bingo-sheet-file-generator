@@ -2,7 +2,7 @@
   <v-app>
     <v-container fluid class="d-flex flex-column justify-center">
       <div id="title" class="center text-h4">Bingo Sheet File Generator</div>
-      <a href="#" class="center ">Source code</a>
+      <a href="https://github.com/hoXyy/bingo-sheet-file-generator" class="center ">Source code</a>
     </v-container>
     <v-main>
       <div id="top-buttons" class="d-flex justify-center pa-2">
